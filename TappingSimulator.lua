@@ -26,7 +26,7 @@ local w = Rayfield:CreateWindow({
         FileName = "LeanKey",
         SaveKey = true,
         GrabKeyFromSite = false,
-        Key = "IOsmb42069Jbgu"
+        Key = "DGVMnENZggdM2L6ZYcCe5C6R4dyeJP"
 
     }
 })
